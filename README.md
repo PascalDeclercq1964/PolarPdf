@@ -5,6 +5,6 @@ Polar pdf allows you to create simple pdf reports and documents in your .net app
 The report is created in a declarative way, so there is no designer. 
 
 Resources:
-- [documentation](/) in the wiki pages 
+- [documentation](/PascalDeclercq1964/PolarPdf/wiki/Documentation) in the wiki pages 
 - a step by step how-to-create-a-simple-report
 - a demo project that creates an invoice
